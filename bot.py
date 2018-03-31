@@ -75,4 +75,4 @@ async def change_log(ctx):
                   "Added craftitem command \n",
                   "And sft command```")
 
-bot.run("NDI5NTg4ODU5ODc4MTEzMjgw.DaEkeg.0CMTUqXBYOubD75NjHQZX-E_aOI")
+bot.run(os.getenv('TOKEN'))
